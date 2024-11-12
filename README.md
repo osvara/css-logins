@@ -1,2 +1,1 @@
-# css-logins
-An elegant collection of pre-designed, fully responsive login pages and forms, crafted with pure CSS. Designed for quick integration and easy customization, perfect for modern web projects that prioritize both aesthetics and functionality.
+A collection of ready-to-use login pages and forms built with CSS, designed for seamless integration and a modern user experience. Customize easily to match any project’s style and functionality.
